@@ -1,2 +1,2 @@
-# Template
-A repository template.
+# Photos
+A repository of photos.
